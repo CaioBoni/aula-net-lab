@@ -1,0 +1,9 @@
+d:\users\1253451\source\repos\Branco\Modelo\bin\Debug\netstandard2.0\Modelo.deps.json
+d:\users\1253451\source\repos\Branco\Modelo\bin\Debug\netstandard2.0\Modelo.dll
+d:\users\1253451\source\repos\Branco\Modelo\bin\Debug\netstandard2.0\Modelo.pdb
+d:\users\1253451\source\repos\Branco\Modelo\obj\Debug\netstandard2.0\Modelo.csprojAssemblyReference.cache
+d:\users\1253451\source\repos\Branco\Modelo\obj\Debug\netstandard2.0\Modelo.csproj.CoreCompileInputs.cache
+d:\users\1253451\source\repos\Branco\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfoInputs.cache
+d:\users\1253451\source\repos\Branco\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfo.cs
+d:\users\1253451\source\repos\Branco\Modelo\obj\Debug\netstandard2.0\Modelo.dll
+d:\users\1253451\source\repos\Branco\Modelo\obj\Debug\netstandard2.0\Modelo.pdb

@@ -1,0 +1,12 @@
+d:\users\1253451\source\repos\Branco\Dados\bin\Debug\Dados.dll.config
+d:\users\1253451\source\repos\Branco\Dados\bin\Debug\Dados.dll
+d:\users\1253451\source\repos\Branco\Dados\bin\Debug\Dados.pdb
+d:\users\1253451\source\repos\Branco\Dados\bin\Debug\EntityFramework.dll
+d:\users\1253451\source\repos\Branco\Dados\bin\Debug\EntityFramework.SqlServer.dll
+d:\users\1253451\source\repos\Branco\Dados\bin\Debug\EntityFramework.xml
+d:\users\1253451\source\repos\Branco\Dados\bin\Debug\EntityFramework.SqlServer.xml
+d:\users\1253451\source\repos\Branco\Dados\obj\Debug\Dados.csprojAssemblyReference.cache
+d:\users\1253451\source\repos\Branco\Dados\obj\Debug\Dados.csproj.CoreCompileInputs.cache
+d:\users\1253451\source\repos\Branco\Dados\obj\Debug\Dados.csproj.CopyComplete
+d:\users\1253451\source\repos\Branco\Dados\obj\Debug\Dados.dll
+d:\users\1253451\source\repos\Branco\Dados\obj\Debug\Dados.pdb

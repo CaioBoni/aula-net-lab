@@ -1,0 +1,14 @@
+d:\users\1253451\source\repos\Branco\TestesDiretos\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+d:\users\1253451\source\repos\Branco\TestesDiretos\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+d:\users\1253451\source\repos\Branco\TestesDiretos\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+d:\users\1253451\source\repos\Branco\TestesDiretos\bin\Debug\netcoreapp2.1\TestesDiretos.deps.json
+d:\users\1253451\source\repos\Branco\TestesDiretos\bin\Debug\netcoreapp2.1\TestesDiretos.runtimeconfig.json
+d:\users\1253451\source\repos\Branco\TestesDiretos\bin\Debug\netcoreapp2.1\TestesDiretos.runtimeconfig.dev.json
+d:\users\1253451\source\repos\Branco\TestesDiretos\bin\Debug\netcoreapp2.1\TestesDiretos.dll
+d:\users\1253451\source\repos\Branco\TestesDiretos\bin\Debug\netcoreapp2.1\TestesDiretos.pdb
+d:\users\1253451\source\repos\Branco\TestesDiretos\obj\Debug\netcoreapp2.1\TestesDiretos.csprojAssemblyReference.cache
+d:\users\1253451\source\repos\Branco\TestesDiretos\obj\Debug\netcoreapp2.1\TestesDiretos.csproj.CoreCompileInputs.cache
+d:\users\1253451\source\repos\Branco\TestesDiretos\obj\Debug\netcoreapp2.1\TestesDiretos.AssemblyInfoInputs.cache
+d:\users\1253451\source\repos\Branco\TestesDiretos\obj\Debug\netcoreapp2.1\TestesDiretos.AssemblyInfo.cs
+d:\users\1253451\source\repos\Branco\TestesDiretos\obj\Debug\netcoreapp2.1\TestesDiretos.dll
+d:\users\1253451\source\repos\Branco\TestesDiretos\obj\Debug\netcoreapp2.1\TestesDiretos.pdb

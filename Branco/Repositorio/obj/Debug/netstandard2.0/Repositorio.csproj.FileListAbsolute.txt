@@ -1,0 +1,17 @@
+d:\users\1253451\source\repos\Branco\Repositorio\bin\Debug\netstandard2.0\Repositorio.deps.json
+d:\users\1253451\source\repos\Branco\Repositorio\bin\Debug\netstandard2.0\Repositorio.dll
+d:\users\1253451\source\repos\Branco\Repositorio\bin\Debug\netstandard2.0\Repositorio.pdb
+d:\users\1253451\source\repos\Branco\Repositorio\bin\Debug\netstandard2.0\Dados.dll
+d:\users\1253451\source\repos\Branco\Repositorio\bin\Debug\netstandard2.0\Modelo.dll
+d:\users\1253451\source\repos\Branco\Repositorio\bin\Debug\netstandard2.0\EntityFramework.dll
+d:\users\1253451\source\repos\Branco\Repositorio\bin\Debug\netstandard2.0\Dados.pdb
+d:\users\1253451\source\repos\Branco\Repositorio\bin\Debug\netstandard2.0\Dados.dll.config
+d:\users\1253451\source\repos\Branco\Repositorio\bin\Debug\netstandard2.0\Modelo.pdb
+d:\users\1253451\source\repos\Branco\Repositorio\bin\Debug\netstandard2.0\EntityFramework.xml
+d:\users\1253451\source\repos\Branco\Repositorio\obj\Debug\netstandard2.0\Repositorio.csprojAssemblyReference.cache
+d:\users\1253451\source\repos\Branco\Repositorio\obj\Debug\netstandard2.0\Repositorio.csproj.CoreCompileInputs.cache
+d:\users\1253451\source\repos\Branco\Repositorio\obj\Debug\netstandard2.0\Repositorio.AssemblyInfoInputs.cache
+d:\users\1253451\source\repos\Branco\Repositorio\obj\Debug\netstandard2.0\Repositorio.AssemblyInfo.cs
+d:\users\1253451\source\repos\Branco\Repositorio\obj\Debug\netstandard2.0\Repositorio.csproj.CopyComplete
+d:\users\1253451\source\repos\Branco\Repositorio\obj\Debug\netstandard2.0\Repositorio.dll
+d:\users\1253451\source\repos\Branco\Repositorio\obj\Debug\netstandard2.0\Repositorio.pdb
